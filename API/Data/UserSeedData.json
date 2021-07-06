@@ -13,8 +13,8 @@
     "Country": "Namibia",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/35.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/women/35.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -32,8 +32,8 @@
     "Country": "American Samoa",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/28.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/women/28.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -51,8 +51,8 @@
     "Country": "South Africa",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/67.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/women/67.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -70,8 +70,8 @@
     "Country": "Brunei Darussalam",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/74.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/women/74.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -89,11 +89,12 @@
     "Country": "French Polynesia",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/95.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/women/95.jpg",
+        "IsMain": true
       }
     ]
   },
+
   {
     "UserName": "Brown",
     "Gender": "male",
@@ -108,8 +109,8 @@
     "Country": "Aruba",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/80.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/men/80.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -127,18 +128,18 @@
     "Country": "Kiribati",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/40.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/men/40.jpg",
+        "IsMain": true
       }
     ]
   },
   {
     "UserName": "Mayur",
     "Gender": "male",
-    "DateOfBirth": "1998-15-01",
+    "DateOfBirth": "1964-12-08",
     "KnownAs": "Mayur",
     "Created": "2019-09-15",
-    "LastActive": "2021-06-03",
+    "LastActive": "2020-06-05",
     "Introduction": "Deserunt reprehenderit elit ullamco fugiat eiusmod veniam officia veniam. Consectetur duis cillum ut esse. In reprehenderit et cupidatat enim exercitation cillum proident elit in cupidatat aliqua ullamco. Elit aute nostrud quis proident quis adipisicing ex aliquip. Laboris ullamco non ex velit consequat. Minim adipisicing qui ut dolor sit excepteur commodo.\r\n",
     "LookingFor": "Aute nisi labore enim ea proident commodo ad deserunt voluptate consectetur consequat aliqua. Enim Lorem qui esse exercitation voluptate sunt nisi voluptate veniam deserunt deserunt nulla. Ullamco occaecat eu ullamco labore veniam reprehenderit. Incididunt fugiat sit reprehenderit laborum nulla veniam. Id magna Lorem tempor duis esse elit aute laborum exercitation voluptate et. Cillum incididunt irure elit nulla laborum exercitation nisi pariatur minim dolor minim labore.\r\n",
     "Interests": "Elit anim labore labore exercitation ipsum enim aute Lorem pariatur.",
@@ -146,8 +147,8 @@
     "Country": "Guam",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/52.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/men/52.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -165,8 +166,8 @@
     "Country": "Peru",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/32.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/men/32.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -184,8 +185,8 @@
     "Country": "Turkey",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/86.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/men/86.jpg",
+        "IsMain": true
       }
     ]
   }
