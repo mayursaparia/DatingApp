@@ -47,7 +47,6 @@ namespace API.Controllers
         }
 
         //api/users/mayur
-       
         [HttpGet("{username}",Name = "GetUser")]
         public async Task<ActionResult<MemberDto>> GetUser(string username)
         {
